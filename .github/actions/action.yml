@@ -3,5 +3,5 @@ description: 'Composite action example'
 runs:
   using: "composite"
   steps:
-    - run: echo Composite action example v0
+    - run: echo Composite action example v1
       shell: bash
